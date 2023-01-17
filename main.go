@@ -1,4 +1,4 @@
-package adder
+package learningGo
 
 import (
 	"fmt"
