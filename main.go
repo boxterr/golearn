@@ -8,9 +8,9 @@ var pl = fmt.Println
 var pf = fmt.Printf
 
 func main() {
-	a := 17000
-	b := 42000
-	c := 50000
+	a := 17001
+	b := 42001
+	c := 50001
 	x := mySum(a, b, c)
 	pf("%v + %v + %v = %v\n", a, b, c, x)
 }
