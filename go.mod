@@ -1,4 +1,4 @@
-module goLearn
+module github.com/boxterr/learningGO
 
 go 1.19
 
