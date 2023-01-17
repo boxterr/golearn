@@ -5,8 +5,8 @@ import (
 )
 
 func TestMySum(t *testing.T) {
-	r := mySum(17000, 42000)
-	if r != 59000 {
-		t.Error("Expected", 59000, "Got", r)
+	r := mySum(5, 10)
+	if r != 15 {
+		t.Error("Expected", 15, "Got", r)
 	}
 }
